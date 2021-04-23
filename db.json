@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Esraa",
+      "age": 20,
+      "email": "Esraa@gmail.com",
+      "phone": "0111111",
+      "address": {
+        "city": "Gwenborough",
+        "street": "Kulas Light"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Asmaa",
+      "age": 22,
+      "email": "Asmaa@gmail.com",
+      "phone": "0222222",
+      "address": {
+        "city": "Wisokyburgh",
+        "street": "Victor Plains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sara",
+      "age": 23,
+      "email": "Sara@gmail.com",
+      "phone": "0333333",
+      "address": {
+        "city": "McKenziehaven",
+        "street": "KDouglas Extension"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ashraket",
+      "age": 25,
+      "email": "Ashraket@gmail.com",
+      "phone": "0444444",
+      "address": {
+        "city": "South Elvis",
+        "street": "Hoeger Mall"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Fatma",
+      "age": 21,
+      "email": "Fatma@gmail.com",
+      "phone": "0555555",
+      "address": {
+        "city": "Roscoeview",
+        "street": "Skiles Walks"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Aya",
+      "age": 15,
+      "email": "Aya@gmail.com",
+      "phone": "0666666",
+      "address": {
+        "city": "South Christy",
+        "street": "Norberto Crossing"
+      }
+    }
+  ]
+}
